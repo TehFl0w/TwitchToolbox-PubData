@@ -15,7 +15,7 @@ Liste bekannter Chatbots.
 
 ## known_userbots.cs
 Liste bekannter Userbots.
-Das sind "Bots" hinter denen ein echter User steht.
+Das sind "Bots" hinter denen ein echter User steht.<br />
 Die sind okay und können ruhig im Chat rumpimmeln.
  <br />
  <br />
