@@ -16,7 +16,8 @@ Liste bekannter Chatbots.
 ## known_userbots.txt
 Liste bekannter Userbots.
 Das sind "Bots" hinter denen ein echter User steht.<br />
-Die sind okay und können ruhig im Chat rumpimmeln.
+Was genau die machen musst du die Leute selbst fragen. <br />
+Die sind aber okay und können ruhig im Chat rumpimmeln.
  <br />
  <br />
  <br />
