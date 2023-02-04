@@ -8,7 +8,7 @@ Liste verifizierter Trolle, Haider, Spambots etc.
  <br />
 
 ## known_chatbots.txt
-Liste bekannter Chatbots.
+Liste bekannter Chatbots. Streamlabs, Streamelements usw.
  <br />
  <br />
  <br />
