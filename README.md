@@ -26,7 +26,7 @@ Die sind aber okay und können ruhig im Chat rumpimmeln.
  
  ## known_userbots_ads.txt
 Liste bekannter Userbots für Werbung.<br />
-Das sind Bots und User, die offensichtlich indirekte Werbung für sich selbst oder einen anderen eigenen Kanal machen...<br />
+Das sind Bots die offensichtlich indirekte Werbung für sich selbst oder einen anderen eigenen Kanal machen...<br />
 Können ruhig gebannt werden, bisschen arg dreistes Verhalten.
  <br />
  <br />
