@@ -3,7 +3,6 @@ aliengathering
 chat_analytics
 commanderroot
 einfachuwe42
-floboytwi
 janinebot
 tehfl0w
 x_nsa_x
