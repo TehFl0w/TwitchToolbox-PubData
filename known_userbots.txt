@@ -4,5 +4,6 @@ chat_analytics
 commanderroot
 einfachuwe42
 janinebot
+kuno_der_killerkarpfen
 tehfl0w
 x_nsa_x
